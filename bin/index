@@ -3,6 +3,7 @@ const chalk = require("chalk")
 
 const program = require("commander")
 const figlet = require("figlet")
+
 program
   .command("create <project-name>") // 增加创建指令
   .description("create a new project") // 添加描述信息

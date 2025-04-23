@@ -1,9 +1,9 @@
 {
   "name": "common-react-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "common-react 脚手架",
   "main": "index.js",
-  "author": "gisele Xiong  https://github.com/giseles",
+  "author": "JainaXiong  https://github.com/JainaXiong",
   "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giseles/common-react-cli.git"
+    "url": "git+https://github.com/JainaXiong/common-react-cli.git"
   },
   "bin": {
     "common-react-cli": "./bin/index"

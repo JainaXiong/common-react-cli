@@ -5,3 +5,4 @@ src/
 .npmignore
 .idea
 .vscode
+.DS_Store
